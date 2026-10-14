@@ -1,0 +1,1267 @@
+[
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_4066_highmo/front/char_4066_highmo.webp",
+  "size": 51812
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1214_mtrmgc/enemy_1214_mtrmgc.skel",
+  "size": 85416
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_4117_ray/front/char_4117_ray.atlas",
+  "size": 10163
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_311_mudrok/char_311_mudrok_ambienceSynesthesia_2/back/char_311_mudrok_ambienceSynesthesia_2.webp",
+  "size": 61594
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1003_ncbow_2/enemy_1003_ncbow_2.skel",
+  "size": 38300
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_440_pinecn/back/char_440_pinecn.skel",
+  "size": 113094
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_388_mint/char_388_mint_epoque_30/front/char_388_mint_epoque_30.skel",
+  "size": 365993
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1561_crzjdg/enemy_1561_crzjdg.skel",
+  "size": 591241
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1116_liprr/enemy_1116_liprr.png",
+  "size": 43723
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_4056_titi/back/char_4056_titi.atlas",
+  "size": 3952
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_279_excu/char_279_excu_boc_1/back/char_279_excu_boc_1.skel",
+  "size": 105765
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1102_sdkght_2/enemy_1102_sdkght_2.atlas",
+  "size": 4096
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1155_dsrobt/enemy_1155_dsrobt.skel",
+  "size": 44406
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_10067_ftsjc/enemy_10067_ftsjc.webp",
+  "size": 48314
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1195_sfyin/enemy_1195_sfyin.webp",
+  "size": 20304
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1051_norwiz_2/enemy_1051_norwiz_2.png",
+  "size": 27853
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1158_divman_2/enemy_1158_divman_2.skel",
+  "size": 65238
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_400_weedy/front/char_400_weedy.atlas",
+  "size": 7590
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1275_dwlock/enemy_1275_dwlock.png",
+  "size": 79444
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_4133_logos/front/char_4133_logos.webp",
+  "size": 47716
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_294_ayer/back/char_294_ayer.skel",
+  "size": 128942
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1251_lysyta_2/enemy_1251_lysyta_2.png",
+  "size": 10424
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1573_pyczog/enemy_1573_pyczog.skel",
+  "size": 2980688
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_4134_cetsyr/front/char_4134_cetsyr.skel",
+  "size": 619141
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1367_dseed/enemy_1367_dseed.skel",
+  "size": 11827
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_1013_chen2/front/char_1013_chen2.skel",
+  "size": 593043
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1040_bombd/enemy_1040_bombd.skel",
+  "size": 24781
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_1168_dumage_2/enemy_1168_dumage_2.atlas",
+  "size": 2791
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/enemy/enemy_9017_achunt/enemy_9017_achunt.png",
+  "size": 117420
+ },
+ {
+  "category": "spine",
+  "path": "assets/spine/op/char_225_haak/front/char_225_haak.atlas",
+  "size": 5875
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_107_liskam/cn_028.mp3",
+  "size": 5869
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_469_indigo/cn_021.mp3",
+  "size": 9840
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_206_gnosis/cn_024.mp3",
+  "size": 12974
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_4082_qiubai/cn_028.mp3",
+  "size": 16109
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_174_slbell/cn_022.mp3",
+  "size": 9004
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_440_pinecn/cn_028.mp3",
+  "size": 21751
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_4051_akkord/cn_020.mp3",
+  "size": 11511
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_4054_malist/cn_028.mp3",
+  "size": 10675
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_440_pinecn/cn_021.mp3",
+  "size": 18408
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_1014_nearl2/cn_027.mp3",
+  "size": 19035
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_4163_rosesa/cn_024.mp3",
+  "size": 57278
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_4087_ines/cn_022.mp3",
+  "size": 10049
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_4191_tippi/cn_028.mp3",
+  "size": 35753
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_145_prove/cn_027.mp3",
+  "size": 12974
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_1033_swire2/cn_026.mp3",
+  "size": 9213
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_206_gnosis/cn_025.mp3",
+  "size": 9840
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_1039_thorn2/cn_020.mp3",
+  "size": 28021
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_128_plosis/cn_032.mp3",
+  "size": 28439
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_491_humus/cn_025.mp3",
+  "size": 28230
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_1026_gvial2/cn_028.mp3",
+  "size": 10675
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_4087_ines/cn_030.mp3",
+  "size": 78176
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_4193_lemuen/cn_028.mp3",
+  "size": 37425
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_181_flower/cn_020.mp3",
+  "size": 18199
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_1041_angel2/cn_032.mp3",
+  "size": 52053
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_145_prove/cn_028.mp3",
+  "size": 22587
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_332_archet/cn_032.mp3",
+  "size": 41187
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_4182_oblvns/cn_031.mp3",
+  "size": 9840
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_440_pinecn/cn_021.mp3",
+  "size": 16527
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/jp/char_4054_malist/cn_020.mp3",
+  "size": 21542
+ },
+ {
+  "category": "voice",
+  "path": "assets/voice/cn/char_143_ghost/cn_025.mp3",
+  "size": 11302
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/prepReady/countdown_arrow.webp",
+  "size": 1788
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/shopPanel/frame_glow.png",
+  "size": 1367
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/garrisonTypeIcon/s_icon_bond.png",
+  "size": 640
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/equipReplace/arrow_line.webp",
+  "size": 566
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/stageInfo/btn_confirmed.png",
+  "size": 19688
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/campLogo/logo_rim.png",
+  "size": 28120
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/img_low.png",
+  "size": 4527
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/campLogo/logo_kjerag.webp",
+  "size": 36618
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/emoticon/basic/pic_thanks_battle.webp",
+  "size": 10284
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/charEliteSprite/char_elite_gold_0.webp",
+  "size": 1146
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/emoticon/slug/pic_distrust_battle.webp",
+  "size": 4204
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/garrisonTypeIcon/s_icon_gold.webp",
+  "size": 312
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/doc_text.webp",
+  "size": 2622
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/bandChoose/btn_emoji_enable.png",
+  "size": 2971
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/roundStartDialog/round_sources_icon.webp",
+  "size": 692
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/progress_green.webp",
+  "size": 560
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/btn_next_bg.png",
+  "size": 40270
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/shopCard/frame_outline.png",
+  "size": 557
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/img_high.png",
+  "size": 4772
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/round_info_boss_complete_sp.png",
+  "size": 6880
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/campLogo/logo_kazimierz.png",
+  "size": 39239
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/report_on_bg.webp",
+  "size": 860
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/battleUi/attack_range_attack.png",
+  "size": 294
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/roundStartDialog/common_frame.webp",
+  "size": 156
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/titleIcon/comment_icon_5.png",
+  "size": 4243
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/hudPanel/frame_deco_txt1.webp",
+  "size": 792
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/battleReady/bg_mountain2.png",
+  "size": 67115
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/target_title_up.webp",
+  "size": 4588
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/settle/target_bg_round_02.webp",
+  "size": 8612
+ },
+ {
+  "category": "ui",
+  "path": "assets/ui/prepReady/ready_icon.webp",
+  "size": 240
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_4114_harold_snow_7.png",
+  "size": 57721
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_1016_agoat2_epoque_57.webp",
+  "size": 41694
+ },
+ {
+  "category": "char",
+  "path": "assets/char/avatar/char_4082_qiubai.png",
+  "size": 66563
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_102_texas_2.webp",
+  "size": 23984
+ },
+ {
+  "category": "char",
+  "path": "assets/char/avatar/char_605_cmedic.png",
+  "size": 50880
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_605_cmedic_1.webp",
+  "size": 20976
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_181_flower_2.png",
+  "size": 115373
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_4054_malist_summer_14.png",
+  "size": 126343
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_4046_ebnhlz_boc_6.png",
+  "size": 133721
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_1026_gvial2_1.webp",
+  "size": 27792
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_391_rosmon_sale_16.png",
+  "size": 70342
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_124_kroos_sale_14.png",
+  "size": 65556
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_2023_ling_2.png",
+  "size": 125627
+ },
+ {
+  "category": "char",
+  "path": "assets/char/avatar/char_128_plosis_2.png",
+  "size": 58574
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_4058_pepe_2.webp",
+  "size": 29140
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_180_amgoat_sanrio_2.webp",
+  "size": 17218
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_472_pasngr_epoque_17.png",
+  "size": 125925
+ },
+ {
+  "category": "char",
+  "path": "assets/char/avatar/char_4066_highmo.webp",
+  "size": 14142
+ },
+ {
+  "category": "char",
+  "path": "assets/char/avatar/char_4054_malist.png",
+  "size": 44330
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_350_surtr_ambienceSynesthesia_6.webp",
+  "size": 40166
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_300_phenxi_boc_9.png",
+  "size": 64461
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_4056_titi_2.webp",
+  "size": 19366
+ },
+ {
+  "category": "char",
+  "path": "assets/char/avatar/char_4122_grabds_2.webp",
+  "size": 20598
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_4080_lin_summer_19.png",
+  "size": 127764
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_1046_sbell2_2.webp",
+  "size": 28492
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_602_cdfend_1.png",
+  "size": 91754
+ },
+ {
+  "category": "char",
+  "path": "assets/char/portrait/char_4124_iana_1.png",
+  "size": 102149
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_430_fartth_whirlwind_5.webp",
+  "size": 45082
+ },
+ {
+  "category": "char",
+  "path": "assets/char/skin_avatar/char_4121_zuole_sale_16.webp",
+  "size": 14326
+ },
+ {
+  "category": "char",
+  "path": "assets/char/avatar/char_617_sharp2_2.webp",
+  "size": 9882
+ },
+ {
+  "category": "local",
+  "path": "assets/local/module/pus-y.webp",
+  "size": 674
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/battle/team_blood_line_dot.png",
+  "size": 110
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/front_matte_select1.webp",
+  "size": 974
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-02a466edd43d/assets/spine/op/char_472_pasngr/char_472_pasngr_epoque_17/front/char_472_pasngr_epoque_17.skel",
+  "size": 428735
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/team_info_selected_big_icon.png",
+  "size": 3734
+ },
+ {
+  "category": "local",
+  "path": "assets/local/emoticon/basic/pic_thinking_battle.webp",
+  "size": 10620
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/battle/frame_deco_txt1.webp",
+  "size": 846
+ },
+ {
+  "category": "local",
+  "path": "assets/local/scene/tex/TX_KXMR_A.webp",
+  "size": 582448
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/battle/img_link_02.webp",
+  "size": 988
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-emotes/533b364fb30c6afbffab.preview.webp",
+  "size": 2192
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/battle/icon_trans_boss.webp",
+  "size": 1588
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-02a466edd43d/assets/spine/op/char_290_vigna/char_290_vigna_summer_1/front/char_290_vigna_summer_1.skel",
+  "size": 119826
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-02a466edd43d/assets/char/skin_avatar/char_172_svrash_summer_4.png",
+  "size": 66518
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/battle/emoji_body.webp",
+  "size": 164
+ },
+ {
+  "category": "local",
+  "path": "assets/local/spine/token/token_10024_ebnhlz_rcube/token_10024_ebnhlz_rcube.png",
+  "size": 24116
+ },
+ {
+  "category": "local",
+  "path": "assets/local/emoticon/basic_2/pic_call_battle.png",
+  "size": 27348
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/complete_up_glow.png",
+  "size": 458
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/img_scan_circle_light.png",
+  "size": 12362
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-namecards-20261014/67dba162c3fd.s.webp",
+  "size": 5546
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/dot_line_01.png",
+  "size": 30524
+ },
+ {
+  "category": "local",
+  "path": "assets/local/operators/char_4123_ela/back/char_4123_ela.png",
+  "size": 353596
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/join_in_loading_tile.webp",
+  "size": 2790
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/select_deco_down2_add.png",
+  "size": 6384
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-02a466edd43d/assets/spine/op/char_127_estell/char_127_estell_epoque_50/front/char_127_estell_epoque_50.atlas",
+  "size": 11786
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/bg_guest.webp",
+  "size": 940
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/common/icon_mlynar.png",
+  "size": 68011
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-02a466edd43d/assets/spine/op/char_440_pinecn/char_440_pinecn_epoque_31/front/char_440_pinecn_epoque_31.atlas",
+  "size": 8823
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-02a466edd43d/assets/spine/op/char_373_lionhd/char_373_lionhd_snow_3/front/char_373_lionhd_snow_3.atlas",
+  "size": 13604
+ },
+ {
+  "category": "local",
+  "path": "assets/local/sp-four-02a466edd43d/assets/spine/op/char_136_hsguma/char_136_hsguma_nian_3/back/char_136_hsguma_nian_3.png",
+  "size": 99336
+ },
+ {
+  "category": "local",
+  "path": "assets/local/ui/outer/join_in_loading_bg.webp",
+  "size": 3928
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_134_ifrit_summer_1/back/char_134_ifrit_summer_1.skel",
+  "size": 69415
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_496_wildmn_epoque_16/front/char_496_wildmn_epoque_16.atlas",
+  "size": 9294
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4039_horn_epoque_24/back/char_4039_horn_epoque_24.png",
+  "size": 87623
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_017_huang_as_1/back/char_017_huang_as_1.png",
+  "size": 73017
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_103_angel_kfc_1/front/char_103_angel_kfc_1.png",
+  "size": 68950
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_2024_chyue_cfa_1/front/char_2024_chyue_cfa_1.atlas",
+  "size": 11834
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_350_surtr_ambienceSynesthesia_6/front/char_350_surtr_ambienceSynesthesia_6.png",
+  "size": 223823
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_264_f12yin_marthe_13/back/char_264_f12yin_marthe_13.skel",
+  "size": 248885
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4098_vvana_epoque_40/portrait.png",
+  "size": 88181
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_300_phenxi_witch_4/front/char_300_phenxi_witch_4.atlas",
+  "size": 11689
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4064_mlynar_iteration_3/front/char_4064_mlynar_iteration_3.png",
+  "size": 184920
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_498_inside_summer_22/back/char_498_inside_summer_22.png",
+  "size": 56845
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_2026_yu_nian_12/front/char_2026_yu_nian_12.png",
+  "size": 176389
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_128_plosis_yun_4/front/char_128_plosis_yun_4.skel",
+  "size": 267609
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4039_horn_epoque_24/front/char_4039_horn_epoque_24.skel",
+  "size": 678177
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4116_blkkgt_witch_5/back/char_4116_blkkgt_witch_5.skel",
+  "size": 236076
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4048_doroth_witch_4/illustration.png",
+  "size": 4356903
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_102_texas_winter_1/back/char_102_texas_winter_1.atlas",
+  "size": 3559
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4087_ines_boc_8/back/char_4087_ines_boc_8.atlas",
+  "size": 10355
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_254_vodfox_yun_8/avatar.png",
+  "size": 64743
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_391_rosmon_sale_16/front/char_391_rosmon_sale_16.skel",
+  "size": 547073
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_340_shwaz_snow_1/front/char_340_shwaz_snow_1.atlas",
+  "size": 12338
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_426_billro_snow_3/avatar.png",
+  "size": 45080
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_102_texas_epoque_7/portrait.png",
+  "size": 60732
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_128_plosis_yun_4/illustration.png",
+  "size": 3570888
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_253_greyy_epoque_8/avatar.png",
+  "size": 44354
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_173_slchan_wwf_1/illustration.png",
+  "size": 3556533
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4202_haruka_iteration_6/illustration.png",
+  "size": 6113614
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_4026_vulpis_epoque_55/back/char_4026_vulpis_epoque_55.png",
+  "size": 145248
+ },
+ {
+  "category": "skin",
+  "path": "assets/skins/char_173_slchan_wild_1/avatar.png",
+  "size": 45060
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_4194_rmixer/cn_028.mp3",
+  "size": 31991
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_4072_ironmn/cn_028.mp3",
+  "size": 22796
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_263_skadi/cn_027.mp3",
+  "size": 27394
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_103_angel/cn_022.mp3",
+  "size": 10467
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_249_mlyss/cn_025.mp3",
+  "size": 15691
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/sfx/player/p_atk/p_atk_gavel_d.mp3",
+  "size": 6287
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_181_flower/cn_023.mp3",
+  "size": 15691
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_134_ifrit/cn_025.mp3",
+  "size": 21124
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_4087_ines/cn_019.mp3",
+  "size": 30111
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/kr/char_472_pasngr/cn_026.mp3",
+  "size": 12347
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_188_helage/cn_032.mp3",
+  "size": 58114
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_377_gdglow/cn_019.mp3",
+  "size": 17781
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/kr/char_485_pallas/cn_020.mp3",
+  "size": 45784
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_431_ashlok/cn_021.mp3",
+  "size": 3152
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_1031_slent2/cn_024.mp3",
+  "size": 5033
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_294_ayer/cn_024.mp3",
+  "size": 7123
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_172_svrash/cn_028.mp3",
+  "size": 40560
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_4051_akkord/cn_030.mp3",
+  "size": 43485
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_237_gravel/cn_023.mp3",
+  "size": 19453
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_2026_yu/cn_021.mp3",
+  "size": 20080
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_4009_irene/cn_019.mp3",
+  "size": 22169
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_4229_aphris/cn_020.mp3",
+  "size": 11093
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/sfx/player/p_atk/p_atk_ergblswd_h.mp3",
+  "size": 4845
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_4064_mlynar/cn_032.mp3",
+  "size": 94476
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_4133_logos/cn_027.mp3",
+  "size": 15482
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_4039_horn/cn_019.mp3",
+  "size": 47456
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_3001_doloris/cn_027.mp3",
+  "size": 7959
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/jp/char_1050_chen3/cn_032.mp3",
+  "size": 34290
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/sfx/player/p_imp/p_imp_mlysndv_h.mp3",
+  "size": 4845
+ },
+ {
+  "category": "audio",
+  "path": "assets/audio/voice/cn/char_426_billro/cn_031.mp3",
+  "size": 34708
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/voice/jp/char_230_savage/cn_021.mp3",
+  "size": 12974
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skin/op/char_4185_amoris/portrait.png",
+  "size": 128840
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/spine/op/char_1037_amiya3/front/char_1037_amiya3.atlas",
+  "size": 10658
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skill/skchr_am_oblivionis_3.png",
+  "size": 33037
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/skill/skchr_frostl_2.png",
+  "size": 12914
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/char/avatar/char_4185_amoris.png",
+  "size": 58617
+ },
+ {
+  "category": "packs",
+  "path": "packs/fanpack/tokens.json",
+  "size": 29492
+ },
+ {
+  "category": "packs",
+  "path": "packs/fanpack-mod/manifest.json",
+  "size": 15953
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skin/op/char_4186_tmoris/avatar.png",
+  "size": 62349
+ },
+ {
+  "category": "packs",
+  "path": "packs/sp-forge-2026-10-13/cosmetics-07.zip",
+  "size": 20701755
+ },
+ {
+  "category": "packs",
+  "path": "packs/fanpack/variants.json",
+  "size": 121097
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skin/op/char_4184_dolris/portrait.png",
+  "size": 118612
+ },
+ {
+  "category": "packs",
+  "path": "packs/sp-forge-2026-10-13/i18n-online-gaps.zip",
+  "size": 5019
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/spine/op/char_4182_oblvns/front/char_4182_oblvns.skel",
+  "size": 1071707
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/voice/jp/char_4186_tmoris/cn_025.mp3",
+  "size": 8168
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/spine/op/char_1037_amiya3/front/char_1037_amiya3.skel",
+  "size": 493240
+ },
+ {
+  "category": "packs",
+  "path": "packs/fanpack/pack.json",
+  "size": 893
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/voice/en/char_193_frostl/cn_022.mp3",
+  "size": 5451
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/skill/skchr_amiya3_1.png",
+  "size": 17143
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skin/op/char_4183_mortis/back/char_4183_mortis_avemujica_1.atlas",
+  "size": 21930
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skin/op/char_4185_amoris/avatar.png",
+  "size": 70097
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/voice/jp/char_449_glider/cn_022.mp3",
+  "size": 25931
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/char/avatar/char_4184_dolris_2.png",
+  "size": 62499
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/voice/en/char_193_frostl/cn_024.mp3",
+  "size": 6914
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skin/op/char_4186_tmoris/back/char_4186_tmoris_avemujica_1.skel",
+  "size": 260790
+ },
+ {
+  "category": "packs",
+  "path": "packs/rimbilliton/voice/en/char_193_frostl/cn_020.mp3",
+  "size": 8168
+ },
+ {
+  "category": "packs",
+  "path": "packs/columbia/art/char_348_ceylon/portrait_1.png",
+  "size": 123667
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/char/portrait/char_4184_dolris_2.png",
+  "size": 106544
+ },
+ {
+  "category": "packs",
+  "path": "packs/ave-mujica/skin/op/char_4182_oblvns/back/char_4182_oblvns_avemujica_1.png",
+  "size": 228117
+ },
+ {
+  "category": "packs",
+  "path": "packs/sp-forge-2026-10-13/cosmetics-06.zip",
+  "size": 26717757
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/audio.voice.1-4.zip",
+  "size": 67513582
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/audio.voice.3-4.zip",
+  "size": 67445662
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/core.spine.op.2-4.zip",
+  "size": 66521359
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/core.spine.op.1-4.zip",
+  "size": 66407555
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/core.spine.op.3-4.zip",
+  "size": 66237514
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/core.spine.enemy-4.zip",
+  "size": 34312678
+ },
+ {
+  "category": "__big",
+  "path": "packs/sp-forge-2026-10-13/cosmetics-02.zip",
+  "size": 31210656
+ },
+ {
+  "category": "__big",
+  "path": "packs/sp-forge-2026-10-13/cosmetics-03.zip",
+  "size": 30346141
+ },
+ {
+  "category": "__big",
+  "path": "packs/sp-forge-2026-10-13/cosmetics-04.zip",
+  "size": 29528636
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/audio.bgm-4.zip",
+  "size": 28202035
+ },
+ {
+  "category": "__big",
+  "path": "packs/sp-forge-2026-10-13/cosmetics-05.zip",
+  "size": 27201463
+ },
+ {
+  "category": "__big",
+  "path": "packs/sp-forge-2026-10-13/cosmetics-06.zip",
+  "size": 26717757
+ },
+ {
+  "category": "__big",
+  "path": "assets/packs/audio.voice.4-4.zip",
+  "size": 22402351
+ }
+]

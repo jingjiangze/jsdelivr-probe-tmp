@@ -1,0 +1,18 @@
+name: probe2
+on: workflow_dispatch
+permissions: {}
+jobs:
+  p2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node probe2.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: results2
+          path: results2.json
+          if-no-files-found: warn
